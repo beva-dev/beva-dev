@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+*I am Eva aka beva-dev*
 
-<!--
-**beva-dev/beva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ERP / CRM
+- 🤔 I’m looking for help with coding
+- ⚡ Fun fact: I like vintage stuff
 
-Here are some ideas to get you started:
+Connect with me:
+:email:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:arrow_forward:
+
+► /play yeah
+
+Languages and Tools:
 -->
