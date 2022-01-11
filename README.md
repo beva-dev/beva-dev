@@ -3,7 +3,7 @@
 
 - 🌱 Dev wanna be
 - 🤔 I’m looking for help with coding
-- ⚡ Fun fact: I like vintage stuff : Nintendo Game & Watch oldies
+- ⚡ Fun fact: I like Nintendo Game & Watch oldies
 
 Connect with me:
 📧 beva.dev@protonmail.com
