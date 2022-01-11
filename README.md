@@ -1,16 +1,12 @@
 ### Hi there 👋 
 *I am Eva aka beva-dev*
 
-- 🌱 I’m currently learning ERP / CRM
+- 🌱 Dev wanna be
 - 🤔 I’m looking for help with coding
-- ⚡ Fun fact: I like vintage stuff
+- ⚡ Fun fact: I like vintage stuff : Nintendo Game & Watch oldies
 
 Connect with me:
-:email:
-
-:arrow_forward:
-
-► /play yeah
+📧 beva.dev@protonmail.com
 
 Languages and Tools:
--->
+--> HTML, CSS, JS, SQL, NodeJs
