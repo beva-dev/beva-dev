@@ -9,4 +9,4 @@ Connect with me:
 📧 beva.dev@protonmail.com
 
 Languages and Tools:
---> HTML, CSS, JS, SQL, NodeJs
+--> HTML, CSS, JS, Angular,noSQL, SQL,NodeJs
